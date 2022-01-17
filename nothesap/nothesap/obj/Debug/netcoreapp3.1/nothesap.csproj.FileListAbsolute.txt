@@ -1,0 +1,15 @@
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\bin\Debug\netcoreapp3.1\nothesap.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\bin\Debug\netcoreapp3.1\nothesap.deps.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\bin\Debug\netcoreapp3.1\nothesap.runtimeconfig.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\bin\Debug\netcoreapp3.1\nothesap.runtimeconfig.dev.json
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\bin\Debug\netcoreapp3.1\nothesap.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\bin\Debug\netcoreapp3.1\nothesap.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\obj\Debug\netcoreapp3.1\nothesap.Form1.resources
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\obj\Debug\netcoreapp3.1\nothesap.csproj.GenerateResource.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\obj\Debug\netcoreapp3.1\nothesap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\obj\Debug\netcoreapp3.1\nothesap.AssemblyInfoInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\obj\Debug\netcoreapp3.1\nothesap.AssemblyInfo.cs
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\obj\Debug\netcoreapp3.1\nothesap.csproj.CoreCompileInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\obj\Debug\netcoreapp3.1\nothesap.dll
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\obj\Debug\netcoreapp3.1\nothesap.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\nothesap\nothesap\obj\Debug\netcoreapp3.1\nothesap.genruntimeconfig.cache
